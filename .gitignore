@@ -1,0 +1,10 @@
+.idea
+.env
+.pytest_cache
+*.log
+*.ps1
+__pycache__
+incoming
+outgoing
+staging
+
